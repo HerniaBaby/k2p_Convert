@@ -167,7 +167,7 @@ pos = getpoints(monitorNumber);
 起動すると以下のメッセージが出るのでOKを押す。
 
 
-![image_0.png](k2p_Convert_media/image_0.png)
+![image_0](https://github.com/user-attachments/assets/055a0833-e1e5-4de8-98be-79439e1cc5df)
 
 
 範囲を確認する。
@@ -293,7 +293,8 @@ robot.keyRelease(java.awt.event.KeyEvent.VK_TAB);
 スクショが終わると以下のメッセージボックスが表示される。
 
 
-![image_2.png](k2p_Convert_media/image_2.png)
+![image_2](https://github.com/user-attachments/assets/6e2e8d0b-a7a7-48b0-ad09-6a45ba9e95aa)
+
 
 # 09. 画像をpdf形式へ変換
 
